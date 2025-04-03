@@ -1,4 +1,4 @@
-## Crypto Mnemonics Private Key Recovery Tools 私钥碰撞器 助记词碰撞器
+## Crypto [Ethereum + Tron + Solana] Mnemonics Private Key Recovery Tools 私钥碰撞器 助记词碰撞器
 
 <div align="center">
 
@@ -21,7 +21,7 @@ This is a computational verification tool that tests large numbers of cryptograp
 - Comparing generated addresses against your target addresses
 - Recording any matches found during processing
 
-**This tool requires only your Ethereum address(es)** - no need to input private keys or recovery phrases. Simply create a text file with the addresses you want to verify.
+**This tool requires only your [Ethereum + Tron + Solana] address(es)** - no need to input private keys or recovery phrases. Simply create a text file with the addresses you want to verify.
 
 ## 🎯 Recovery Methods
 
@@ -82,7 +82,7 @@ Required files in working directory:
 - 将生成的地址与您的目标地址进行比较
 - 记录处理过程中发现的任何匹配项
 
-**此工具仅需要您的以太坊地址** - 无需输入私钥或恢复短语。只需创建一个包含您要验证的地址的文本文件。
+**此工具仅需要您的[Ethereum + Tron + Solana]地址** - 无需输入私钥或恢复短语。只需创建一个包含您要验证的地址的文本文件。
 
 ## 🎯 恢复方法
 
