@@ -71,7 +71,7 @@ Required files in working directory:
 
 ---
 
-<h2 id="chinese">以太坊助记词碰撞器工具 | 以太坊私钥碰撞器恢复工具</h2>
+<h2 id="chinese"> [Ethereum + Tron + Solana] 助记词碰撞器工具 | 私钥碰撞器恢复工具</h2>
 
 ## ⚠️ 重要使用信息
 
