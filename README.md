@@ -1,4 +1,4 @@
-## Crypto [Ethereum + Tron + Solana] Mnemonics Private Key Recovery Tools 私钥碰撞器 助记词碰撞器
+## Crypto Wallet [Ethereum + Tron + Solana] Mnemonics Private Key Recovery Tools 私钥碰撞器 助记词碰撞器
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 This is a computational verification tool that tests large numbers of cryptographic combinations against target Ethereum addresses. It works by:
 
 - Systematically generating key combinations in specified ranges
-- Converting each key to its corresponding Ethereum address
+- Converting each key to its corresponding [Ethereum + Tron + Solana] address
 - Comparing generated addresses against your target addresses
 - Recording any matches found during processing
 
@@ -78,7 +78,7 @@ Required files in working directory:
 这是一款计算验证工具，可针对目标以太坊地址测试大量加密组合。它的工作原理是：
 
 - 在指定范围内系统生成密钥组合
-- 将每个密钥转换为其对应的以太坊地址
+- 将每个密钥转换为其对应的[Ethereum + Tron + Solana]地址
 - 将生成的地址与您的目标地址进行比较
 - 记录处理过程中发现的任何匹配项
 
